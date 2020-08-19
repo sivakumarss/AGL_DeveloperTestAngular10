@@ -1,0 +1,11 @@
+<h4>cat-list here!</h4>
+
+<p>Male</p>
+<ul>
+    <li *ngFor="let cat of MaleCats | sortBy: 'asc':'CatName'">{{ cat.CatName | uppercase }} </li>
+</ul>
+
+<p>Female</p>
+<ul>
+    <li *ngFor="let cat of FemaleCats| sortBy: 'asc':'CatName'">{{ cat.CatName | uppercase }} </li>
+</ul>

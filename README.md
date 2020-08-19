@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Test Result
 https://github.com/sivakumarss/AGL_DeveloperTestAngular10/blob/master/AGL_DeveloperTestAngularImage.jpg
+
+Task URLs:
+http://agl-developer-test.azurewebsites.net/
+http://agl-developer-test.azurewebsites.net/people.json
